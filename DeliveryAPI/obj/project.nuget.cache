@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NePqLZBJdvk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\DeliveryAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EMELY\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.16\\microsoft.aspnetcore.openapi.9.0.16.nupkg.sha512",
+    "C:\\Users\\EMELY\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
