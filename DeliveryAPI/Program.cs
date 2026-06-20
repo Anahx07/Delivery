@@ -1,4 +1,5 @@
-
+using Delivery.Data;
+using Microsoft.EntityFrameworkCore;
 namespace DeliveryAPI
 {
     public class Program
@@ -7,11 +8,28 @@ namespace DeliveryAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<DeliveryAppContext>(options =>
+                //options.UseNpgsql(builder.Configuration.GetConnectionString("MiApiUTN_001Context") ?? throw new InvalidOperationException("Connection string 'MiApiUTN_001Context' not found.")));
+                // options.UseMySql(
+                //builder.Configuration.GetConnectionString("MariaDB"),
+                //new MySqlServerVersion(new Version(12, 2, 2))
+                //)
+                // builder.Services.AddDbContext<MiApiUTN_001Context>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer"))
+                //)
+
+                );
+
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers()
+                .AddNewtonsoftJson(Options =>
+                Options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
@@ -20,14 +38,9 @@ namespace DeliveryAPI
             {
                 app.MapOpenApi();
             }
-
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
             app.MapControllers();
-
             app.Run();
         }
     }
