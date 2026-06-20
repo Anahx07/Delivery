@@ -22,7 +22,7 @@ namespace DeliveryAPI
 
             // Add services to the container.
 
-            builder.Services.AddControllers()
+            builder.Services.AddControllersWithViews()
                 .AddNewtonsoftJson(Options =>
                 Options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
@@ -39,8 +39,12 @@ namespace DeliveryAPI
                 app.MapOpenApi();
             }
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
             app.UseAuthorization();
             app.MapControllers();
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}");
             app.Run();
         }
     }

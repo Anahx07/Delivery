@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v9.0": {
       "DeliveryAPI/1.0.0": {
         "dependencies": {
-          "Delivery_Modelos": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.16",
           "Microsoft.AspNetCore.OpenApi": "9.0.16",
           "Microsoft.EntityFrameworkCore": "9.0.16",
@@ -18,7 +17,8 @@
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "9.0.16",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0",
-          "Swashbuckle.AspNetCore": "9.0.6"
+          "Swashbuckle.AspNetCore": "9.0.6",
+          "Delivery_Modelos": "1.0.0.0"
         },
         "runtime": {
           "DeliveryAPI.dll": {}
@@ -2216,7 +2216,7 @@
           }
         }
       },
-      "Delivery_Modelos/1.0.0": {
+      "Delivery_Modelos/1.0.0.0": {
         "runtime": {
           "Delivery_Modelos.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -3275,8 +3275,8 @@
       "path": "system.windows.extensions/8.0.0",
       "hashPath": "system.windows.extensions.8.0.0.nupkg.sha512"
     },
-    "Delivery_Modelos/1.0.0": {
-      "type": "project",
+    "Delivery_Modelos/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

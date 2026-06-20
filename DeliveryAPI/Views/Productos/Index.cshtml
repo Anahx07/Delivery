@@ -1,0 +1,68 @@
+@model IEnumerable<Delivery_Modelos.Producto>
+@{
+    ViewData["Title"] = "Catálogo de Productos";
+}
+
+<div class="page-header">
+    <h2 class="page-title">Catálogo de Productos</h2>
+    <a href="/" class="btn btn-secondary">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 8px;">
+            <line x1="19" y1="12" x2="5" y2="12"></line>
+            <polyline points="12 19 5 12 12 5"></polyline>
+        </svg>
+        Volver
+    </a>
+</div>
+
+<div class="glass-card">
+    @if (Model == null || !Model.Any())
+    {
+        <div style="text-align: center; padding: 2rem; color: var(--text-secondary);">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 1rem; opacity: 0.5;">
+                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+            </svg>
+            <p>No hay productos registrados en el inventario actual.</p>
+        </div>
+    }
+    else
+    {
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID Producto</th>
+                        <th>Nombre del Producto</th>
+                        <th>Precio Unitario</th>
+                        <th>Stock Disponible</th>
+                        <th>Estado de Inventario</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var producto in Model)
+                    {
+                        <tr>
+                            <td>#@producto.IdProducto</td>
+                            <td style="font-weight: 600;">@producto.Nombre</td>
+                            <td style="font-weight: 600; color: #818CF8;">$@producto.Precio.ToString("N2")</td>
+                            <td>@producto.Stock unidades</td>
+                            <td>
+                                @if (producto.Stock == 0)
+                                {
+                                    <span class="badge badge-danger">Agotado</span>
+                                }
+                                else if (producto.Stock < 10)
+                                {
+                                    <span class="badge badge-warning">Stock Crítico</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-success">Disponible</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>

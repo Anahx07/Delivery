@@ -3352,16 +3352,6 @@
             "rid": "win"
           }
         }
-      },
-      "Delivery_Modelos/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/Delivery_Modelos.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Delivery_Modelos.dll": {}
-        }
       }
     }
   },
@@ -9065,16 +9055,10 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Delivery_Modelos/1.0.0": {
-      "type": "project",
-      "path": "../Delivery_Modelos/Delivery_Modelos.csproj",
-      "msbuildProject": "../Delivery_Modelos/Delivery_Modelos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Delivery_Modelos >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 9.0.16",
       "Microsoft.AspNetCore.OpenApi >= 9.0.16",
       "Microsoft.EntityFrameworkCore >= 9.0.16",
@@ -9090,23 +9074,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EMELY\\.nuget\\packages\\": {},
+    "C:\\Users\\m0993\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\DeliveryAPI.csproj",
+      "projectUniqueName": "C:\\Users\\m0993\\OneDrive\\Desktop\\Universidad\\Herramientas\\DeliveryProyect\\Delivery\\DeliveryAPI\\DeliveryAPI.csproj",
       "projectName": "DeliveryAPI",
-      "projectPath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\DeliveryAPI.csproj",
-      "packagesPath": "C:\\Users\\EMELY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\obj\\",
+      "projectPath": "C:\\Users\\m0993\\OneDrive\\Desktop\\Universidad\\Herramientas\\DeliveryProyect\\Delivery\\DeliveryAPI\\DeliveryAPI.csproj",
+      "packagesPath": "C:\\Users\\m0993\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m0993\\OneDrive\\Desktop\\Universidad\\Herramientas\\DeliveryProyect\\Delivery\\DeliveryAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\EMELY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m0993\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9115,18 +9099,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "framework": "net9.0",
           "targetAlias": "net9.0",
-          "projectReferences": {
-            "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Delivery_Modelos.csproj": {
-              "projectPath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Delivery_Modelos.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
