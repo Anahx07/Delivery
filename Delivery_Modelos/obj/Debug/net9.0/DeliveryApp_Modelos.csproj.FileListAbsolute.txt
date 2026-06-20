@@ -1,0 +1,12 @@
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\bin\Debug\net9.0\DeliveryApp_Modelos.deps.json
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\bin\Debug\net9.0\DeliveryApp_Modelos.dll
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\bin\Debug\net9.0\DeliveryApp_Modelos.pdb
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\DeliveryApp_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\DeliveryApp_Modelos.AssemblyInfoInputs.cache
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\DeliveryApp_Modelos.AssemblyInfo.cs
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\DeliveryApp_Modelos.csproj.CoreCompileInputs.cache
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\DeliveryApp_Modelos.sourcelink.json
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\DeliveryApp_Modelos.dll
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\refint\DeliveryApp_Modelos.dll
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\DeliveryApp_Modelos.pdb
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery_Modelos\obj\Debug\net9.0\ref\DeliveryApp_Modelos.dll

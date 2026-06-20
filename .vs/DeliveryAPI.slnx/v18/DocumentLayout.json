@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|solutionrelative:delivery.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\detallepedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\detallepedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\data\\delivery_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\data\\delivery_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\ubicacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\ubicacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery_modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8915B2B5-7F77-4962-A5F7-0E7A60A02F98}|Delivery_Modelos\\DeliveryApp_Modelos.csproj|solutionrelative:delivery_modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|solutionrelative:delivery.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery.mvc\\delivery.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|solutionrelative:delivery.mvc\\delivery.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\delivery.mvc\\delivery.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F10A9CEE-0561-4BAE-9CDF-5B6C3853A190}|Delivery.MVC\\Delivery.MVC.csproj|solutionrelative:delivery.mvc\\delivery.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\mideliveryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\mideliveryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|c:\\users\\emely\\onedrive\\documentos_u\\utn\\tercero\\herramientas\\deliveryapi\\deliveryapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3F01FC-3BEE-51FF-7559-3B9832CD08C3}|DeliveryAPI\\MiDeliveryAPI.csproj|solutionrelative:deliveryapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Delivery.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Program.cs",
+              "RelativeToolTip": "Delivery.MVC\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T06:06:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetallePedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\DetallePedidosController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\DetallePedidosController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\DetallePedidosController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\DetallePedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T05:49:12.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\DetallePedido.cs",
+              "RelativeToolTip": "Delivery_Modelos\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T05:42:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:25:10.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Pedido.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Pedido.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Pedido.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Pedido.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:58:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ubicacion.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Ubicacion.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Ubicacion.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Ubicacion.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Ubicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:06:44.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Producto.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Producto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:06:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Delivery.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Delivery.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Delivery.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Delivery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:06:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Persona.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:04:23.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UbicacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\UbicacionesController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\UbicacionesController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\UbicacionesController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\UbicacionesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T02:08:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Program.cs",
+              "RelativeToolTip": "DeliveryAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T00:24:11.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delivery_Context.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Data\\Delivery_Context.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Data\\Delivery_Context.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Data\\Delivery_Context.cs",
+              "RelativeToolTip": "DeliveryAPI\\Data\\Delivery_Context.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:25:43.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Pago.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Pago.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Pago.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Pago.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:06:08.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Admin.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Admin.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Admin.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Admin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:05:31.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T02:08:18.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeliveriesController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\DeliveriesController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\DeliveriesController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\DeliveriesController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\DeliveriesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAArwDkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T02:05:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:58:28.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:24:45.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Delivery_Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery_Modelos\\Usuario.cs",
+              "RelativeToolTip": "Delivery_Modelos\\Usuario.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T03:06:39.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T02:06:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "DeliveryAPI\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:24:56.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MiDeliveryAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\MiDeliveryAPI.csproj",
+              "RelativeDocumentMoniker": "DeliveryAPI\\MiDeliveryAPI.csproj",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\MiDeliveryAPI.csproj",
+              "RelativeToolTip": "DeliveryAPI\\MiDeliveryAPI.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T22:23:01.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Delivery.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Delivery.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T01:42:09.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DeliveryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\appsettings.json",
+              "RelativeToolTip": "DeliveryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-20T00:21:58.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delivery.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Delivery.MVC.csproj",
+              "RelativeDocumentMoniker": "Delivery.MVC\\Delivery.MVC.csproj",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Delivery.MVC.csproj",
+              "RelativeToolTip": "Delivery.MVC\\Delivery.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T21:26:51.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delivery.MVC",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Delivery.MVC.csproj",
+              "RelativeDocumentMoniker": "Delivery.MVC\\Delivery.MVC.csproj",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\Delivery.MVC\\Delivery.MVC.csproj",
+              "RelativeToolTip": "Delivery.MVC\\Delivery.MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T21:26:53.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DeliveryAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "DeliveryAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:08:32.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

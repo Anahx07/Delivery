@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Delivery.MVC/Delivery.MVC.csproj" Id="f10a9cee-0561-4bae-9cdf-5b6c3853a190" />
+  <Project Path="DeliveryAPI/MiDeliveryAPI.csproj" />
+  <Project Path="Delivery_Modelos/DeliveryApp_Modelos.csproj" Id="8915b2b5-7f77-4962-a5f7-0e7a60a02f98" />
+</Solution>

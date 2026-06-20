@@ -1,0 +1,2 @@
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery.Modelos\obj\Debug\Delivery.Modelos.csproj.AssemblyReference.cache
+C:\Users\EMELY\OneDrive\Documentos_U\UTN\TERCERO\HERRAMIENTAS\DeliveryAPI\Delivery.Modelos\obj\Debug\Delivery.Modelos.csproj.CoreCompileInputs.cache
