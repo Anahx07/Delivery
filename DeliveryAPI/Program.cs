@@ -8,7 +8,7 @@ namespace DeliveryAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddDbContext<DeliveryAppContext>(options =>
+            builder.Services.AddDbContext<Delivery_Context>(options =>
                 //options.UseNpgsql(builder.Configuration.GetConnectionString("MiApiUTN_001Context") ?? throw new InvalidOperationException("Connection string 'MiApiUTN_001Context' not found.")));
                 // options.UseMySql(
                 //builder.Configuration.GetConnectionString("MariaDB"),

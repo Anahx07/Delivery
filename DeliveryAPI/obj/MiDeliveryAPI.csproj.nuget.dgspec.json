@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\DeliveryAPI.csproj": {}
+    "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\MiDeliveryAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\DeliveryAPI.csproj": {
+    "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\MiDeliveryAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\DeliveryAPI.csproj",
-        "projectName": "DeliveryAPI",
-        "projectPath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\DeliveryAPI.csproj",
+        "projectUniqueName": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\MiDeliveryAPI.csproj",
+        "projectName": "MiDeliveryAPI",
+        "projectPath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\MiDeliveryAPI.csproj",
         "packagesPath": "C:\\Users\\EMELY\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\EMELY\\OneDrive\\Documentos_U\\UTN\\TERCERO\\HERRAMIENTAS\\DeliveryAPI\\DeliveryAPI\\obj\\",
         "projectStyle": "PackageReference",

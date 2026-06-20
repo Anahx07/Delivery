@@ -35,7 +35,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Delivery_Modelos\Delivery_Modelos.csproj" />
+    <ProjectReference Include="..\Delivery_Modelos\DeliveryApp_Modelos.csproj" />
   </ItemGroup>
 
 </Project>
