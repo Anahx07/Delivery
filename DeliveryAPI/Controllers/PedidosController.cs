@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,10 +17,24 @@ namespace MiDeliveryAPI.Controllers
         private readonly Delivery_Context _context;
 
         public PedidosController(Delivery_Context context)
+=======
+using Microsoft.AspNetCore.Mvc;
+using Delivery.Data;
+using Microsoft.EntityFrameworkCore;
+
+namespace DeliveryAPI.Controllers
+{
+    public class PedidosController : Controller
+    {
+        private readonly DeliveryAppContext _context;
+
+        public PedidosController(DeliveryAppContext context)
+>>>>>>> 88f631366bcfb865b98421b11c8c40297b9aedb1
         {
             _context = context;
         }
 
+<<<<<<< HEAD
         // GET: api/Pedidos
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Pedido>>> GetPedidos()
@@ -135,6 +150,16 @@ namespace MiDeliveryAPI.Controllers
         private bool PedidoExists(int id)
         {
             return _context.Pedidos.Any(e => e.Id == id);
+=======
+        public IActionResult Index()
+        {
+            // Incluimos la información del usuario y el repartidor para una mejor vista
+            var pedidos = _context.Pedidos
+                .Include(p => p.Usuario)
+                .Include(p => p.Delivery)
+                .ToList();
+            return View(pedidos);
+>>>>>>> 88f631366bcfb865b98421b11c8c40297b9aedb1
         }
     }
 }

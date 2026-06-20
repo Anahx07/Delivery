@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,10 +17,23 @@ namespace MiDeliveryAPI.Controllers
         private readonly Delivery_Context _context;
 
         public ProductosController(Delivery_Context context)
+=======
+using Microsoft.AspNetCore.Mvc;
+using Delivery.Data;
+
+namespace DeliveryAPI.Controllers
+{
+    public class ProductosController : Controller
+    {
+        private readonly DeliveryAppContext _context;
+
+        public ProductosController(DeliveryAppContext context)
+>>>>>>> 88f631366bcfb865b98421b11c8c40297b9aedb1
         {
             _context = context;
         }
 
+<<<<<<< HEAD
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Producto>>> GetProducto()
         {
@@ -80,6 +94,12 @@ namespace MiDeliveryAPI.Controllers
             await _context.SaveChangesAsync();
 
             return NoContent();
+=======
+        public IActionResult Index()
+        {
+            var productos = _context.Productos.ToList();
+            return View(productos);
+>>>>>>> 88f631366bcfb865b98421b11c8c40297b9aedb1
         }
     }
 }
